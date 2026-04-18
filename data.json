@@ -1,0 +1,12 @@
+{
+  "lakes": [
+    {
+      "name": "Crystal Lake",
+      "type": "Freshwater"
+    },
+    {
+      "name": "Blue Lake",
+      "type": "Volcanic"
+    }
+  ]
+}
